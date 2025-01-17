@@ -45,6 +45,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/shubhendra/netfl
 
 # Reports:
 Reports were created to effectively communicate the insights and finding from the data analysis.
+![Netflix Analysis](https://github.com/manar448/UneeqInterns_Task3_Netflix-Analysis/blob/main/Capture.PNG)
 
 # Contributing
 Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
