@@ -53,8 +53,6 @@ Contributions are welcome! Fork the repository, create a branch for your feature
 # Contact
 For inquiries or collaboration opportunities, please reach out to me:
 
-Name: Manar Alaa Azouz
-
-Email: manaralaa962@gmail.com
-
-LinkedIn: www.linkedin.com/in/manar-alaa-1787211b0
+- **Name**: Manar Alaa Azouz
+- **Email**: manaralaa962@gmail.com
+- **LinkedIn**: [Manar Alaa Azouz](https://www.linkedin.com/in/manar-alaa-1787211b0)
